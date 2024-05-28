@@ -19,3 +19,6 @@ samples, guidance on mobile development, and a full API reference.
 API FAKE URL
 
 https://fakestoreapi.com/products
+
+http
+https://pub.dev/packages/http/versions/1.1.0/example
